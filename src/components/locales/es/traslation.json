@@ -1,0 +1,6 @@
+{
+    "React": "Es una librería de JavaScript para construir interfaces de usuario",
+    "React Native": "Es un framework de JavaScript para construir aplicaciones móviles nativas",
+    "Redux": "Es una librería de JavaScript para manejar el estado de la aplicación",
+    "React Router": "Es una librería de JavaScript para manejar las rutas de la aplicación"
+}
